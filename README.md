@@ -1,1 +1,1 @@
-# STM32F0 VAJA_1
+# VPRAŠANJA
