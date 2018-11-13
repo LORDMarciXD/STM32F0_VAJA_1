@@ -8,3 +8,10 @@ f) 17
 h) A: 12bit ;  od 0 do 4095
    B: 10bit ;  od 0 do 1023
    C: 6bit  ;  od 0 do 63
+
+
+
+# KOMENTAR:
+
+Program deluje odlično, do večjih napak ni prišlo. 
+Pomagala sva si s spletom in navodili iz delovnega lista ter profesorjevo pomočjo.
