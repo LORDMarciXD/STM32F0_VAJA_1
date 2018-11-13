@@ -1,3 +1,4 @@
 # VPRAŠANJA
 
-b) 
+b) PC0
+c)
